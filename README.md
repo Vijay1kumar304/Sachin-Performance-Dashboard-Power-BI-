@@ -1,9 +1,9 @@
 # Sachin-Performance-Dashboard-Power-BI-
-In this project we calculate combind data of ODI and Test record in Home page in which total match, total runs, total century, maximum runs, average runs.
+In this project we calculate combind data of ODI and Test record in Home page in which total match, total runs, total wicket, total century, maximum runs, average runs and top three runs record to opposition team
 
-ODI Match tab contain all details related to ODI matches in which total match, total run, total century, maximum runs, average runs 
+ODI Match tab contain all details related to ODI matches in which total match, total run, total wickets, total century, Half century maximum runs, average runs and maximum runs months wise
 
-Test Match tab contain all details related to Test matches in which total match, total run, total century, maximum runs, average runs 
+Test Match tab contain all details related to Test matches in which total match, total run, total wickets, total double century, total century, Half century maximum runs, average runs and maximum runs months wise
 
 # Screenshot
 
